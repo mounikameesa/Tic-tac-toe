@@ -1,0 +1,14 @@
+.boxContainer {
+    margin: 20px auto;
+}
+
+.box-row {
+}
+
+.box {
+    display: table-cell;
+    background-color: #e4dcdc;
+    border: 1px solid #000;
+    height: 100px;
+    width: 100px;
+}
